@@ -106,3 +106,6 @@ celerybeat.pid
 # FastAPI specific
 *log/
 log/
+
+# Environment variables
+.env
