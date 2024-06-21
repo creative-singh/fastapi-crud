@@ -1,6 +1,6 @@
 ## To Run The App
 
-- **uvicorn min:app --reload**
+- **uvicorn main:app --reload**
 
 ## API Doc Available on
 
